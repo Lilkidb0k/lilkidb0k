@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Lilkid  
 
-<!--
-**Lilkidb0k/lilkidb0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I love building things in **C++**, **Lua**, and exploring new tech projects.  
 
-Here are some ideas to get you started:
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+- 💻 Languages: C++, Lua, HTML, CSS, JavaScript
+- 🛠️ Tools: Git, VS Code, Roblox Studio  
+- 🌐 Interests: Game Development, Backend Systems, Creative Coding  
+
+
+## 📌 Projects I'm Working On  
+- 🎮 **Roblox Games** – Building systems for leaderboards, pets, gamepasses, and more  
+- 🔑 **Password Generator** (C++) – Create strong passwords and save them securely  
+- 🎲 **Mini-Games in C++** – Tic Tac Toe, Hangman, and more coming soon  
+
+
+## 🌱 What I'm Learning / Improving
+- Advanced **C++ concepts** (data structures, algorithms)
+- **Roblox scripting** with optimized modular systems
+- Web development with seamless designs and advanced backend systems
+
+
+## 📫 Connect With Me  
+- GitHub: [Lilkidb0k](https://github.com/Lilkidb0k)  
+- Discord: [thatlilkidb0k](https://discord.com/users/445152230132154380)
+
+
+✨ Thanks for stopping by!  
+Feel free to explore my projects, give feedback, or collaborate.
