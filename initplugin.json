@@ -9,6 +9,16 @@
       "path": "ReplicatedStorage/Packages/Quinit",
       "className": "ModuleScript",
       "url": "https://raw.githubusercontent.com/Lilkidb0k/lilkidb0k/main/Packages/Quinit.luau"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Signal",
+      "className": "ModuleScript",
+      "url": "https://raw.githubusercontent.com/Lilkidb0k/lilkidb0k/main/Packages/Signal.luau"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/table-util",
+      "className": "ModuleScript",
+      "url": "https://raw.githubusercontent.com/Lilkidb0k/lilkidb0k/main/Packages/table-util.luau"
     }
   ]
 }
