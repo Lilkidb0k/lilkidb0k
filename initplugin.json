@@ -4,6 +4,11 @@
       "path": "ReplicatedStorage/Packages/Trove",
       "className": "ModuleScript",
       "url": "https://raw.githubusercontent.com/Lilkidb0k/lilkidb0k/main/Packages/Trove.luau"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Quinit",
+      "className": "ModuleScript",
+      "url": "https://raw.githubusercontent.com/Lilkidb0k/lilkidb0k/main/Packages/Quinit.luau"
     }
   ]
 }
